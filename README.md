@@ -242,7 +242,7 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 ## Author - Wilson Lakra
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions or feedback or would like to connect, feel free to get in touch!
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to connect, feel free to get in touch!
 
 ### Contact
 
