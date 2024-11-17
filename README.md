@@ -44,12 +44,14 @@ CREATE TABLE retail_sales (
 ### 2. Data Exploration & Cleaning
 
 - **Record Count**: Determine the total number of records in the dataset.
+- **Customer Transactions**: Find out how many unique transactions are in the dataset.
 - **Customer Count**: Find out how many unique customers are in the dataset.
 - **Category Count**: Identify all unique product categories in the dataset.
+- **Category Names**: Identify all unique product category names in the dataset.
 - **Null Value Check**: Check for any null values in the dataset and delete records with missing data.
 
 ```sql
-SELECT COUNT(*) as total_sales FROM retail_sales;
+SELECT COUNT(*) FROM retail_sales;
 SELECT COUNT(DISTINCT transactions_id )FROM retail_sales;
 SELECT COUNT(DISTINCT customer_id) FROM retail_sales;
 SELECT COUNT(DISTINCT category) no_of_categories FROM retail_sales;
