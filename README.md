@@ -246,6 +246,6 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 ## Contact
 
-- **LinkedIn**: [Contact here ](https://www.linkedin.com/in/wilson-lakra-639ab92a4/)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/wilson-lakra-639ab92a4/)
 
 Thank you for your support, and I look forward to connecting with you!
